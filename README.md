@@ -1,59 +1,59 @@
 # C/CPP信息大全
 关于 C/C++ 框架、库和资源的一系列汇总列表。
 
-- [ 1. 标准库](#1.-标准库)
-- [ 2. 框架](#2.-框架)
-- [ 3. 人工智能](#3.-人工智能)
-- [ 4. 异步事件循环](#4.-异步事件循环)
-- [ 5. 音频](#5.-音频)
-- [ 6. 生态学](#6.-生态学)
-- [ 7. 压缩](#7.-压缩)
-- [ 8. 并发与多线程](#8.-并发与多线程)
-- [ 9. 容器](#9.-容器)
-- [10. 密码](#10.-密码)
-- [11. 数据库](#11.-数据库)
-- [12. 调试](#12.-调试)
-- [13. 游戏引擎](#13.-游戏引擎)
-- [14. HMI](#14.-HMI)
-- [15. 图形](#15.-图形)
-- [16. 图像处理](#16.-图形处理)
-- [17. 国际化](#17.-国际化)
-- [18. JSON](#18.-JSON)
-- [19. 日志](#19.-日志)
-- [20. 机器学习](#20.-机器学习)
-- [21. 数学库](#21.-数学库)
-- [22. 多媒体](#22.-多媒体)
+- [ 1. 标准库](#1.标准库)
+- [ 2. 框架](#2.框架)
+- [ 3. 人工智能](#3.人工智能)
+- [ 4. 异步事件循环](#4.异步事件循环)
+- [ 5. 音频](#5.音频)
+- [ 6. 生态学](#6.生态学)
+- [ 7. 压缩](#7.压缩)
+- [ 8. 并发与多线程](#8.并发与多线程)
+- [ 9. 容器](#9.容器)
+- [10. 密码](#10.密码)
+- [11. 数据库](#11.数据库)
+- [12. 调试](#12.调试)
+- [13. 游戏引擎](#13.游戏引擎)
+- [14. HMI](#14.HMI)
+- [15. 图形](#15.图形)
+- [16. 图像处理](#16.图形处理)
+- [17. 国际化](#17.国际化)
+- [18. JSON](#18.JSON)
+- [19. 日志](#19.日志)
+- [20. 机器学习](#20.机器学习)
+- [21. 数学库](#21.数学库)
+- [22. 多媒体](#22.多媒体)
 - [23. 网络](#23.-网络)
-- [24. 物理学](#24.-物理学)
-- [25. 机器人](#25.-机器人)
-- [26. 科学计算](#26.-科学计算)
-- [27. 脚本](#27.-脚本)
-- [28. 序列号](#28.-序列号)
-- [29. 视频](#29.-视频)
-- [30. 虚拟机](#30.-虚拟机)
-- [31. Web应用框架](#31.-Web应用框架)
-- [32. XML](#32.-XML)
-- [33. 通用组件](#33.-通用组件)
-- [34. 软件](#34.-软件)
+- [24. 物理学](#24.物理学)
+- [25. 机器人](#25.机器人)
+- [26. 科学计算](#26.科学计算)
+- [27. 脚本](#27.脚本)
+- [28. 序列号](#28.序列号)
+- [29. 视频](#29.视频)
+- [30. 虚拟机](#30.虚拟机)
+- [31. Web应用框架](#31.Web应用框架)
+- [32. XML](#32.XML)
+- [33. 通用组件](#33.通用组件)
+- [34. 软件](#34.软件)
     - [编译器](#编译器)
     - [在线编译](#在线编译)
     - [调试器](#调试器)
     - [IDE](#IDE)
     - [构建系统](#构建系统)
     - [静态代码分析](#静态代码分析)
-- [35. 在线代码仓库](#35.-在线代码仓库)
-- [36. 网站](#36.-网站)
+- [35. 在线代码仓库](#35.在线代码仓库)
+- [36. 网站](#36.网站)
 
 ---
 
-### 1. 标准库
+### 1.标准库
 C++标准库，包括了STL容器，算法和函数等
 + [C++ Standard Library](http://www.cplusplus.com/reference/) - 是一系列类和函数的集合，使用核心语言编写，也是C++ISO自身标准的一部分
 + [Standard Template Library](http://www.martinbroadhurst.com/stl/) - 标准模板库
 + [C POSIX library](http://www.gnu.org/software/libc/libc.html) - POSIX系统的C标准库规范
 + [ISO C++ Standards Committee](https://github.com/cplusplus) - C++标准委员会
 
-### 2. 框架
+### 2.框架
 C++通用框架和库
 + [Apache C++ Standard Library](http://stdcxx.apache.org/) - 一系列算法，容器，迭代器和其他基本组件的集合
 + [ASL](http://stlab.adobe.com/) - Adobe源代码库提供了同行的评审和可移植的C++源代码库
@@ -81,18 +81,18 @@ C++通用框架和库
 + [Yomm11](https://github.com/jll63/yomm11) - C++11的开放multi-methods
 
 
-### 3. 人工智能
+### 3.人工智能
 + [btsk](https://github.com/aigamedev/btsk) - 游戏行为树启动器工具
 + [Evolving Objects](http://eodev.sourceforge.net/) - 基于模板的，ANSI C++演化计算库，能够帮助你非常快速地编写出自己的随机优化算法
 
 
-### 4. 异步事件循环
+### 4.异步事件循环
 + [Asio](https://think-async.com/Asio/) - 用于网络和底层I/O编程的跨平台的C++库
 + [libev](http://libev.schmorp.de/) - 功能齐全，高性能的时间循环，轻微地仿效libevent，但是不再像libevent一样有局限性
 + [libuv](https://github.com/libuv/libuv) - 跨平台异步I/O
 
 
-### 5. 音频
+### 5.音频
 音频，声音，音乐，数字化音乐库
 + [FMOD](https://www.fmod.com/) - 易于使用的跨平台的音频引擎和音频内容的游戏创作工具
 + [Maximilian](https://github.com/micknoise/Maximilian) - C++音频和音乐数字信号处理库
@@ -103,7 +103,7 @@ C++通用框架和库
 + [Vorbis](https://xiph.org/vorbis/) - Ogg Vorbis是一种完全开放的，非专有的，免版税的通用压缩音频格式
 
 
-### 6. 生态学
+### 6.生态学
 生物信息，基因组学和生物技术
 + [libsequence](http://molpopgen.github.io/libsequence/) - 用于表示和分析群体遗传学数据的C++库
 + [seqAn](http://www.seqan.de/) - 专注于生物数据序列分析的算法和数据结构
@@ -111,7 +111,7 @@ C++通用框架和库
 + [Wham](https://github.com/zeeev/wham) - 直接把联想测试应用到BAM文件的基因结构变异
 
 
-### 7. 压缩
+### 7.压缩
 压缩和归档库
 + [bzip2](http://www.bzip.org/) - 完全免费，免费专利和高质量的数据压缩
 + [doboz](https://bitbucket.org/attila_afra/doboz/src/default/) - 能够快速解压缩的压缩库
@@ -127,7 +127,7 @@ C++通用框架和库
 + [zlib](http://zlib.net/) - 非常紧凑的数据流压缩库
 
 
-### 8. 并发与多线程
+### 8.并发与多线程
 + [Boost.Compute](https://github.com/boostorg/compute) - 用于OpenCL的C++GPU计算库
 + [Bolt](https://github.com/HSA-Libraries/Bolt) - 针对GPU进行优化的C++模板库
 + [Intel TBB](https://github.com/intel/tbb) - Intel线程构件块
@@ -139,12 +139,12 @@ C++通用框架和库
 + [VexCL](https://github.com/ddemidov/vexcl) - 用于OpenCL/CUDA 的C++向量表达式模板库
 
 
-### 9. 容器
+### 9.容器
 + [C++ B-Tree](https://isocpp.org/blog/2013/02/b-tree-containers-from-google) - 基于B树数据结构，实现命令内存容器的模板库
 + [Hashmaps](https://github.com/goossaert/hashmap) - C++中开放寻址哈希表算法的实现
 
 
-### 10. 密码
+### 10.密码
 + [BCrypt](https://www.example-code.com/cpp/bcrypt_hash_password.asp) - 一个跨平台的文件加密工具，加密文件可以移植到所有可支持的操作系统和处理器中
 + [Botan](https://botan.randombit.net/) - C++加密库
 + [Crypto++](https://www.cryptopp.com/) - 一个有关加密方案的免费的C++库
@@ -158,7 +158,7 @@ C++通用框架和库
 + [Tiny AES](https://github.com/kokke/tiny-AES-c) - 用C实现的一个小巧，可移植的实现了AES128ESB的加密算法
 
 
-### 11. 数据库
+### 11.数据库
 数据库，SQL服务器，ODBC驱动程序和工具
 + [hiberlite](https://github.com/paulftw/hiberlite) - 用于Sqlite3的C++对象关系映射
 + [hiredis](https://github.com/redis/hiredis) - 用于Redis数据库的很简单的C客户端库
@@ -169,7 +169,7 @@ C++通用框架和库
 + [SQLite](https://www.sqlite.org/index.html) - 一个完全嵌入式的，功能齐全的关系数据库，只有几百KB，可以正确包含到你的项目中
 
 
-### 12. 调试
+### 12.调试
 调试库， 内存和资源泄露检测，单元测试
 + [Boost.Test](https://www.boost.org/doc/libs/master/libs/test/doc/html/index.html) - Boost测试库
 + [Catch2](https://github.com/catchorg/Catch2) - 时尚的C++原生的框架，只包含头文件，用于单元测试，测试驱动开发和行为驱动开发
@@ -185,14 +185,14 @@ C++通用框架和库
 + [UnitTest](https://github.com/unittest-cpp/unittest-cpp) - 轻量级的C++单元测试框架
 
 
-### 13. 游戏引擎
+### 13.游戏引擎
 + [Cocos2d-x](https://www.cocos.com/) - 一个跨平台框架，用于构建2D游戏，互动图书，演示和其他图形应用程序
 + [Grit](https://github.com/sparkprime/grit-engine) - 社区项目，用于构建一个免费的游戏引擎，实现开放的世界3D游戏
 + [Irrlicht](https://github.com/zaki/irrlicht) - C++语言编写的开源高性能的实时#D引擎
 + [Polycode](http://polycode.org/) - C++实现的用于创建游戏的开源框架（与Lua绑定）
 
 
-### 14. HMI
+### 14.HMI
 + [CEGUI](http://static.cegui.org.uk/) - 很灵活的跨平台GUI库
 + [FLTK](https://www.fltk.org/index.php) - 快速，轻量级的跨平台的C++GUI工具包
 + [GTK](http://www.gtk.org/) - 用于创建图形用户界面的跨平台工具包
@@ -209,7 +209,7 @@ C++通用框架和库
 + [wxWidget](http://wxwidgets.org/) - 允许开发人员使用一个代码库可以为widows， Mac OS X，Linux和其他平台创建应用程序
 
 
-### 15. 图形
+### 15.图形
 + [bgfx](https://github.com/bkaradzic/bgfx) - 跨平台的渲染库
 + [Cairo](http://www.cairographics.org/) - 支持多种输出设备的2D图形库
 + [Horde3D](https://github.com/horde3d/Horde3D) - 一个小型的3D渲染和动画引擎
@@ -221,7 +221,7 @@ C++通用框架和库
 + [Urho3D](https://github.com/urho3d/Urho3D) - 跨平台的渲染和游戏引擎
 
 
-### 16. 图形处理
+### 16.图形处理
 + [Boost.GIL](https://www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html) - 通用图像库
 + [CImg](http://cimg.eu/download.shtml) - 用于图像处理的小型开源C++工具包
 + [CxImage](https://github.com/movableink/cximage) - 用于加载，保存，显示和转换的图像处理和转换库，可以处理的图片格式包括 BMP, JPEG, GIF, PNG, TIFF, MNG, ICO, PCX, TGA, WMF, WBMP, JBG, 
@@ -233,13 +233,13 @@ C++通用框架和库
 + [VTK](https://vtk.org/) - 用于3D计算机图形学，图像处理和可视化的开源免费软件系统
 
 
-### 17. 国际化
+### 17.国际化
 + [gettext](http://www.gnu.org/software/gettext/) - GNU `gettext`
 + [IBM ICU](http://site.icu-project.org/) - 提供Unicode 和全球化支持的C、C++ 和Java库
 + [libiconv](http://www.gnu.org/software/libiconv/) - 用于不同字符编码之间的编码转换库
 
 
-### 18. JSON
+### 18.JSON
 + [frozen](https://github.com/cesanta/frozen) - C/C++的Json解析生成器
 + [jansson](https://github.com/akheron/jansson) - 进行编解码和处理Jason数据的C语言库
 + [jbson](https://github.com/chrismanning/jbson) - C++14中构建和迭代BSON data,和Json 文档的库
@@ -256,14 +256,14 @@ C++通用框架和库
 + [YAJL](https://github.com/lloyd/yajl) - C语言中快速流JSON解析库
 
 
-### 19. 日志
+### 19.日志
 + [Boost.Log](https://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html) - 计非常模块化，并且具有扩展性
 + [EasyLoggine++](https://github.com/amrayn/easyloggingpp) - C++日志库，只包含单一的头文件
 + [log4cpp](https://github.com/orocos-toolchain/log4cpp) - 一系列C++类库，灵活添加日志到文件，系统日志，IDSA和其他地方
 + [templog](http://www.templog.org/) - 轻量级C++库，可以添加日志到你的CPP应用程序中
 
 
-### 20. 机器学习
+### 20.机器学习
 + [Caffe](https://github.com/BVLC/caffe) - 快速的神经网络框架
 + [CCV](https://github.com/liuliu/ccv) - 以C语言为核心的现代计算机视觉库
 + [mlpack](https://www.mlpack.org/) - 可扩展的C++机器学习库
@@ -273,7 +273,7 @@ C++通用框架和库
 + [SoFiA](https://github.com/SoFiA-Admin/SoFiA) - 机器学习的快速增量算法套件
 
 
-### 21. 数学库
+### 21.数学库
 + [Armadillo](https://github.com/patrickfav/armadillo) - 高质量的C++线性代数库，速度和易用性做到了很好的平衡，语法和MatlAB很相似
 + [Blaze](https://github.com/blaze/blaze) - 高性能的C++数学库，用于密集和稀疏算法
 + [Ceres Solver](http://ceres-solver.org/) - 来自谷歌的C++库，用于建模和解决大型复杂非线性最小平方问题
@@ -282,7 +282,7 @@ C++通用框架和库
 + [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) - 高级C++模板头文件库，包括线性代数，矩阵，向量操作，数值解决和其他相关的算法
 + [GMP](https://gmplib.org/) - 用于个高精度计算的C/C++库，处理有符号整数，有理数和浮点数
 
-### 22. 多媒体
+### 22.多媒体
 + [GStreamer](https://gstreamer.freedesktop.org/) - 构建媒体处理组件图形的库
 + [Live555](http://www.live555.com/liveMedia/) - 使用开放标准协议(RTP/RTCP, RTSP, SIP) 的多媒体流库
 + [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK)媒体框架
@@ -291,7 +291,7 @@ C++通用框架和库
 + [SFML](http://www.sfml-dev.org/) - 快速，简单的多媒体库
 
 
-### 23. 网络
+### 23.网络
 + [ACE](https://github.com/ajaxorg/ace) - C++面向对象网络变成工具包
 + [ASIO](https://think-async.com/Asio/) - 用于网络和底层I/O编程的跨平台的C++库
 + [cpp-netlib](https://cpp-netlib.org/) - 高级网络编程的开源库集合
@@ -308,7 +308,7 @@ C++通用框架和库
 + [ZeroMQ](https://zeromq.org/) - 高速，模块化的异步通信库
 
 
-### 24. 物理学
+### 24.物理学
 动力学仿真引擎
 + [Box2D](https://github.com/erincatto/Box2D) - 2D的游戏物理引擎
 + [Bullet](https://github.com/bulletphysics/bullet3) - 3D的游戏物理引擎
@@ -319,7 +319,7 @@ C++通用框架和库
 + [Simbody](https://github.com/simbody/simbody) - 高性能C++多体动力学/物理库，模拟关节生物力学和机械系统，像车辆，机器人和人体骨骼
 
 
-### 25. 机器人
+### 25.机器人
 + [MOOS-IvP](https://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php?n=Main.HomePage) - 一组开源C++模块，提供机器人平台的自主权，尤其是自主的海洋车辆
 + [MRPT](https://www.mrpt.org/) - 移动机器人编程工具包
 + [Point Cloud Library](https://github.com/PointCloudLibrary/pcl) - 点云库是一个独立的，大规模的开放项目，用于2D/3D图像和点云处理
@@ -327,12 +327,12 @@ C++通用框架和库
 + [ROS](http://wiki.ros.org/) - 机器人操作系统，提供了一些库和工具帮助软件开发人员创建机器人应用程序
 
 
-### 26. 科学计算
+### 26.科学计算
 + [FFTW](http://www.fftw.org/) - 用一维或者多维计算DFT的C语言库
 + [GSL](http://www.gnu.org/software/gsl/) - GNU科学库
 
 
-### 27. 脚本
+### 27.脚本
 + [ChaiScript](https://github.com/ChaiScript/ChaiScript/) - 用于C++的易于使用的嵌入式脚本语言
 + [Lua](http://www.lua.org/) - 用于配置文件和基本应用程序脚本的小型快速脚本引擎
 + [Luaxx](https://github.com/dafrito/luacxx) - 用于创建Lua绑定的C++ 11 API
@@ -341,7 +341,7 @@ C++通用框架和库
 + [V8](https://github.com/v8/v8) - 谷歌的快速JavaScript引擎，可以被嵌入到任何C++应用程序中
 
 
-### 28. 序列号
+### 28.序列号
 + [CAP'N PROTO](https://capnproto.org/) - 快速数据交换格式和RPC系统
 + [cereal](https://github.com/USCiLab/cereal) - C++11 序列化库
 + [FlatBuffers](https://github.com/google/flatbuffers) - 内存高效的序列化库
@@ -352,7 +352,7 @@ C++通用框架和库
 + [Thrift](https://thrift.apache.org/) - 高效的跨语言IPC/RPC，用于C++，Java，Python，PHP，C#和其它多种语言中，最初由Twitter开发
 
 
-### 29. 视频
+### 29.视频
 + [libvpx](https://github.com/webmproject/libvpx) - VP8/VP9编码解码SDK
 + [FFmpeg](https://www.ffmpeg.org/) - 一个完整的，跨平台的解决方案，用于记录，转换视频和音频流
 + [libde265](https://github.com/strukturag/libde265) - 开放的h.265视频编解码器的实现
@@ -360,12 +360,12 @@ C++通用框架和库
 + [Theora](https://www.theora.org/) - 免费开源的视频压缩格式
 
 
-### 30. 虚拟机
+### 30.虚拟机
 + [CarpVM](https://github.com/tekknolagi/carp) - C中有趣的VM，让我们一起来看看这个
 + [MicroPython](https://github.com/micropython/micropython) - 旨在实现单片机上Python3.x的实现
 + [TinyVM](https://github.com/jakogut/tinyvm) - 用纯粹的ANSI C编写的小型，快速，轻量级的虚拟机
 
-### 31. Web应用框架
+### 31.Web应用框架
 + [Civetweb](https://github.com/civetweb/civetweb) - 提供易于使用，强大的，C/C++嵌入式Web服务器，带有可选的CGI，SSL和Lua支持
 + [CppCMS](http://cppcms.com/wikipp/en/page/main) - 免费高性能的Web开发框架
 + [Crow](https://github.com/ipkn/crow) - 一个C++微型web框架
@@ -374,7 +374,7 @@ C++通用框架和库
 + [QDjango](https://github.com/jlaine/qdjango/) - 使用C++编写的，基于Qt库的web框架，试图效仿Django API，因此得此名
 + [wt](https://www.webtoolkit.eu/wt) - 开发Web应用的C++库
 
-### 32. XML
+### 32.XML
 + [Expat](https://libexpat.github.io/) - 用C语言编写的xml解析库
 + [Libxml2](http://xmlsoft.org/) - Gnome的xml C解析器和工具包
 + [Libxmljs](https://github.com/libxmljs/libxmljs) - C++的xml解析器
@@ -408,7 +408,7 @@ C++通用框架和库
 + []() - C的另一个字符串库，功能更丰富，但是没有缓冲溢出问题，还包含了一个C++包装器
 
 
-### 34. 软件
+### 34.软件
 #### 编译器
 + [Clang](http://clang.llvm.org/) - 由苹果公司开发的
 + [GCC](https://gcc.gnu.org/) - GNU编译器集合
@@ -461,12 +461,12 @@ C++通用框架和库
 + [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html) - 查找C，C++和Objective-C程序bug的源代码分析工具
 
 
-### 35. 在线代码仓库
+### 35.在线代码仓库
 + [GitHub]() - 最知名的Git仓库
 + [GitLab]() - 
 + [Bitbucket](https://bitbucket.org/product/) - 优秀的Git仓库
 
 
-### 36. 网站
+### 36.网站
 + [cplusplus](http://www.cplusplus.com/) - C++官方学习网站
 + [Awesome C++](https://cpp.libhunt.com/) - C++开源库集合
