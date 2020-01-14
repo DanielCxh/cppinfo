@@ -1,7 +1,7 @@
 # C/CPP信息大全
 关于 C/C++ 框架、库和资源的一系列汇总列表。
 
-- [ 1. 标准库](#1.标准库)
+- [ 1. 标准库](#标准库)
 - [ 2. 框架](#2.框架)
 - [ 3. 人工智能](#3.人工智能)
 - [ 4. 异步事件循环](#4.异步事件循环)
@@ -47,7 +47,7 @@
 
 ---
 
-### 1.标准库
+### 标准库
 C++标准库，包括了STL容器，算法和函数等
 + [C++ Standard Library](http://www.cplusplus.com/reference/) - 是一系列类和函数的集合，使用核心语言编写，也是C++ISO自身标准的一部分
 + [Standard Template Library](http://www.martinbroadhurst.com/stl/) - 标准模板库
