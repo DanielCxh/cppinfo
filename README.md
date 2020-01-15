@@ -470,6 +470,7 @@ C++通用框架和库
 ### 网站
 + [cplusplus](http://www.cplusplus.com/) - C++官方学习网站
 + [Awesome C++](https://cpp.libhunt.com/) - C++开源库集合
++ [Gitter](https://gitter.im/) - 社区聊天工具
 
 ---
 
