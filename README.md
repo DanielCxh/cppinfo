@@ -43,6 +43,7 @@
     - [静态代码分析](#静态代码分析)
 - [35. 在线代码仓库](#在线代码仓库)
 - [36. 网站](#网站)
+- [贡献](#贡献)
 
 ---
 
@@ -158,7 +159,7 @@ C++通用框架和库
 + [Tiny AES](https://github.com/kokke/tiny-AES-c) - 用C实现的一个小巧，可移植的实现了AES128ESB的加密算法
 
 
-### 11.数据库
+### 数据库
 数据库，SQL服务器，ODBC驱动程序和工具
 + [hiberlite](https://github.com/paulftw/hiberlite) - 用于Sqlite3的C++对象关系映射
 + [hiredis](https://github.com/redis/hiredis) - 用于Redis数据库的很简单的C客户端库
@@ -319,7 +320,7 @@ C++通用框架和库
 + [Simbody](https://github.com/simbody/simbody) - 高性能C++多体动力学/物理库，模拟关节生物力学和机械系统，像车辆，机器人和人体骨骼
 
 
-### 25.机器人
+### 机器人
 + [MOOS-IvP](https://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php?n=Main.HomePage) - 一组开源C++模块，提供机器人平台的自主权，尤其是自主的海洋车辆
 + [MRPT](https://www.mrpt.org/) - 移动机器人编程工具包
 + [Point Cloud Library](https://github.com/PointCloudLibrary/pcl) - 点云库是一个独立的，大规模的开放项目，用于2D/3D图像和点云处理
@@ -332,7 +333,7 @@ C++通用框架和库
 + [GSL](http://www.gnu.org/software/gsl/) - GNU科学库
 
 
-### 27.脚本
+### 脚本
 + [ChaiScript](https://github.com/ChaiScript/ChaiScript/) - 用于C++的易于使用的嵌入式脚本语言
 + [Lua](http://www.lua.org/) - 用于配置文件和基本应用程序脚本的小型快速脚本引擎
 + [Luaxx](https://github.com/dafrito/luacxx) - 用于创建Lua绑定的C++ 11 API
@@ -469,3 +470,8 @@ C++通用框架和库
 ### 网站
 + [cplusplus](http://www.cplusplus.com/) - C++官方学习网站
 + [Awesome C++](https://cpp.libhunt.com/) - C++开源库集合
+
+---
+
+### 贡献
+如果发现以上的说明或者链接有问题，请提交`Push Request`，谢谢.
