@@ -263,7 +263,7 @@ C++通用框架和库
 + [templog](http://www.templog.org/) - 轻量级C++库，可以添加日志到你的CPP应用程序中
 
 
-### 20.机器学习
+### 机器学习
 + [Caffe](https://github.com/BVLC/caffe) - 快速的神经网络框架
 + [CCV](https://github.com/liuliu/ccv) - 以C语言为核心的现代计算机视觉库
 + [mlpack](https://www.mlpack.org/) - 可扩展的C++机器学习库
